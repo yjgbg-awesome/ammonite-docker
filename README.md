@@ -1,0 +1,1 @@
+jdk 17 + ammonite 2.5.3 scala 3.1
